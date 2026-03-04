@@ -1,0 +1,3 @@
+Backend service for PlayTube — a YouTube clone application.
+This API handles video data, user authentication, and content management.
+-[Model link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGh0LWFuN1BIZDM2S0tSWjdfR2tUcTBvSGJMZ3xBQ3Jtc0tta3ZqcVhvR0ROQmlocXp4bWs2MXBTbzdDUGlZZVdHSzhseWF5Zy1wQ2hSaXlYaTFTLUxNcTMtSHJGYjV2MHRrZW14Uk83V0JyaDJhNjJTRGlzWHYyLU5BSzJCTmJGWkZ1S1UwU2dqRFhyR21LWkNSaw&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
